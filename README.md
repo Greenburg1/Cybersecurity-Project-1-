@@ -119,9 +119,13 @@ _TODO: Answer the following questions to fill in the blanks:_
 - _Which file is the playbook?
 
 elk-playbook.yml - used to install ELK Server
+
 https://docs.google.com/document/d/1sYFqKxUfNxH9-6lrh_X8_tncvFYUEVesUS5IaKhOAS8/edit?usp=sharing
+
 filebeat-playbook.yml - Used to install and configure Filebeat on Elk Server and DVWA servers
+
 https://docs.google.com/document/d/1Nx32AKse0tlqdsjvI4tyrX8BpicQ_1qLAlAAXiAf258/edit?usp=sharing
+
 metricbeat-playbook.yml - Used to install and configure Metricbeat on Elk Server and DVWA servers
 
  Where do you copy it?
